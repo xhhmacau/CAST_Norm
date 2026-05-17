@@ -115,7 +115,11 @@ Place your dataset CSV files in the `./data/` directory. The framework supports:
 We appreciate the following github repos a lot for their valuable code base or datasets:
 
 https://github.com/thuml/Time-Series-Library
+
 https://github.com/zhouhaoyi/Informer2020
+
 https://github.com/wzhwzhwzh0921/S-D-Mamba
+
 https://github.com/cure-lab/LTSF-Linear
+
 https://github.com/luodhhh/ModernTCN
