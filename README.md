@@ -2,8 +2,7 @@
 
 This is an official implementation of paper: [CAST-Norm: Coupled Adaptive Spatio-Temporal Normalization for Multivariate Time Series Forecasting](KDD 2026). CAST-Norm is a normalization framework for time series forecasting that addresses non-stationarity through spatial-temporal coupling perception and community-aware spatial purification.
 
-## Features
-
+## Modules
 - **Temporal Normalization**: Normalizes time series along the temporal dimension
 - **Spatial-Temporal Coupling Perception (STCP)**: Captures dynamic spatial-temporal relationships via patch-wise graph learning
 - **Community-Aware Spatial Purification (CASD)**: Separates invariant and variant patterns using community detection
